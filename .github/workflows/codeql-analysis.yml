@@ -76,4 +76,3 @@ jobs:
       uses: anchore/sbom-action@v0.18.0
       with:
         sbom-artifact-match: ".*\\.spdx$"
-        artifact-name: sbom.spdx
