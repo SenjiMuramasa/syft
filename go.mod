@@ -3,6 +3,7 @@ module github.com/anchore/syft
 go 1.24.0
 
 require (
+	github.com/kcp-dev/kcp v0.26.0
 	github.com/BurntSushi/toml v1.4.0
 	github.com/CycloneDX/cyclonedx-go v0.9.2
 	github.com/Masterminds/semver v1.5.0
